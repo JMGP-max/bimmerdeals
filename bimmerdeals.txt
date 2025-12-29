@@ -1,0 +1,23 @@
+bimmerdeals/
+├─ app/
+│   ├─ layout.tsx
+│   ├─ page.tsx
+│   ├─ bmw/[serie]/[modelo]/[categoria]/[motor]/[codigo]/page.tsx
+│   └─ admin/page.tsx
+├─ components/
+│   ├─ VehicleSelector.tsx
+│   ├─ OfferCard.tsx
+│   ├─ PriceHistoryChart.tsx
+│   ├─ AlertCTA.tsx
+│   └─ SponsoredBadge.tsx
+├─ prisma/
+│   ├─ schema.prisma
+│   └─ seed.ts
+├─ styles/globals.css
+├─ Dockerfile
+├─ docker-compose.yml
+├─ package.json
+├─ tsconfig.json
+├─ tailwind.config.js
+├─ postcss.config.js
+└─ .gitignore
